@@ -1,0 +1,11 @@
+*.class
+*.jar
+.vscode/
+.idea/
+*.iml
+target/
+build/
+out/
+dataFiles/manager.txt
+dataFiles/staff.txt
+dataFiles/wage_info.txt
